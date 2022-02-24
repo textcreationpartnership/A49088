@@ -1,0 +1,1153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lamentations of the prophet Jeremiah paraphras'd suitable to the exigencies of these times.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49088</idno>
+            <idno type="STC">Wing L290B</idno>
+            <idno type="STC">ESTC R41451</idno>
+            <idno type="EEBO-CITATION">31355374</idno>
+            <idno type="OCLC">ocm 31355374</idno>
+            <idno type="VID">110428</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49088)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110428)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1742:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lamentations of the prophet Jeremiah paraphras'd suitable to the exigencies of these times.</title>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Novemb. 11, the day on which His Majestie, God bless him, retir'd from Hampton-Court. M. D. C. XLVII [1667]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imperfect: p. [16] stained, with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Jeremiah --  Paraphrases.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:110428:1"/>
+               <pb facs="tcp:110428:1"/>
+               <hi>THE Lamentations of the Prophet JEREMIAH Paraphras'd.</hi>
+            </p>
+            <p>Suitable to the exigencies of theſe times.</p>
+            <q>
+               <bibl>
+                  <hi>P. Jeremiah.</hi> 9. 1.</bibl> O that my head were water<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>, and mine eys a fountain of tears, that I might weep day and night for the ſlain of the daughter of my people.</q>
+            <q>
+               <bibl>
+                  <hi>S. Luke</hi> 19.</bibl>
+               <p>41. Jeſus, when He was come neer, beheld the City, and wept over it,</p>
+               <p>42. Saying, If thou hadſt known, even thou, at leaſt in this thy day, the things which belong un<g ref="char:EOLhyphen"/>to thy peace! <hi>But now—</hi>
+               </p>
+            </q>
+            <p>London, Printed <hi>Novemb.</hi> 11. the day on which His MAjESTIE, God bleſs Him, retir'd from <hi>Hampton-Court.</hi>
+            </p>
+            <p>M. D. C. XLVII.</p>
+            <pb facs="tcp:110428:2" rendition="simple:additions"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:110428:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He ſad condition of this unhappy Nation, ſo parallel to that of the Iews both in her Sin and Pu<g ref="char:EOLhyphen"/>niſhment, may be a ſufficient Apologie for the ſetting forth of theſe moſt pathetical Lamentations of the Prophet Je<g ref="char:EOLhyphen"/>remiah. Which being ſo perfect an Idea and repreſentation both of what we have unjuſtly done againſt the ſovereign Majeſty of Heaven and Earth, and of what we moſt juſtly ſuffer from the ſame moſt righteous hand, I am confident the propounding of them to the publike view in this plain and familiar Paraphraſe ca<g ref="char:cmbAbbrStroke">̄</g>not be leſſe acceptable and welcome, then it is ſeaſonable &amp; proper. The undertaking of an Epicaedium in general will be ſoon juſtified by the carriage of all ſorts of people in the caſe of common danger by Fire or Water; every one then contribut<g ref="char:EOLhyphen"/>ing his beſt aſsiſtance, either at the pump or bucket. And it will be quickly underſtood why in ſpecial I conform'd my ſenſe and ex<g ref="char:EOLhyphen"/>preſsion
+<pb facs="tcp:110428:3"/>
+of our preſent miſeries to the lan<g ref="char:EOLhyphen"/>guage of the Prophet Ieremiah, or rather of the Holy Ghoſt himſelf, if we conſider the ſtrange ſquezineſs of ſoul moſt people are poſseſſed with, in their ſeveral gloſſes and in<g ref="char:EOLhyphen"/>terpretations of our unnatural diſtractions. My deſire is, as to inſinuate and work kindly upon the affections of all, though of never ſo different judgement, in the ſerious and paſsionate meditation of our common miſeries, ſo indeed not to provoke any gall, or rub harſhly upon any ſore, while the conſide<g ref="char:EOLhyphen"/>ration of our preſent ſad condition is repre<g ref="char:EOLhyphen"/>ſented only in general to the ſober and ſo<g ref="char:EOLhyphen"/>lemn thoughts of pious and well affected ſouls. This if I can obtein I have my end; and ſhal ſatisfie my ſelf with this aſſurance, that, if God have not decreed the preſent ruin of the Nation for our great unthank<g ref="char:EOLhyphen"/>fulneſs, we ſhall yet enjoy the Goſpel of Peace, and the Peace of the Goſpel. And let all the people ſay, Amen.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110428:3"/>
+            <head>The Lamentations of the Prophet JEREMIAH.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <lg n="1">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                     <seg rend="decorInit">H</seg>Ow doth the City ſolitary ſit</l>
+                  <l>That multitudes of people had in it?</l>
+                  <l>How is ſhe as a widow now be<g ref="char:EOLhyphen"/>moan'd?</l>
+                  <l>She that among the Nations in<g ref="char:EOLhyphen"/>thron'd,</l>
+                  <l>Among the Provinces a Princeſs was,</l>
+                  <l>How doth ſhe now pay tribute? how? alas<hi>!</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> She weepeth ſore all night, and on her cheek</l>
+                  <l>Tears, cruel tears, her faireſt beauties break:</l>
+                  <l>Among her lovers none her grief allay,</l>
+                  <l>Her friends are turned foes, and her betray.</l>
+               </lg>
+               <lg n="3">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> Judah into captivity is gone</l>
+                  <l>Great ſervitude and great affliction:</l>
+                  <l>Among the heathen reſt ſhe findeth none,</l>
+                  <l>But greater ſtraits of perſecution.</l>
+               </lg>
+               <lg n="4">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> The ways of Zion mourn, becauſe that none</l>
+                  <l>Her ſolemn Feaſts keep with devotion.</l>
+                  <l>Her gates are deſolate, her Prieſts do ſigh,</l>
+                  <l>Her Virgins are afflicted bitterly.</l>
+               </lg>
+               <lg n="5">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> Her adverſaries are the cheif; her foe</l>
+                  <l>Doth proſper; for the Lord hath brought her low:</l>
+                  <l>The multitude of her tranſgreſſions</l>
+                  <l>Inſlaves her children to the Nations.</l>
+               </lg>
+               <lg n="6">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> Thy daughters beautie, Zion, all is gone,</l>
+                  <l>Her Princes here and there, like Harts, do run,</l>
+                  <l>Yet find no paſture: nor doth ſtrength remain</l>
+                  <l>Her from the fierce purſuer to mantein.</l>
+               </lg>
+               <lg n="7">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> Jeruſalem remembred, in the days</l>
+                  <l>Of her affliction, all the merry Mays,</l>
+                  <l>All the delightfull things ſhe did enjoy,</l>
+                  <l>When cruel foes her people did deſtroy,</l>
+                  <l>
+                     <pb facs="tcp:110428:4"/>
+And none did help: thus was ſhe, all forlorn,</l>
+                  <l>Seen by her foes; her Sabbaths were their ſcorn.</l>
+               </lg>
+               <lg n="8">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/> Jeruſalem hath greiveouſly tranſgreſt,</l>
+                  <l>Therfore ſhe wanders far, and finds no reſt.</l>
+                  <l>All, that once honor'd her, her now deſpiſe,</l>
+                  <l>Her nakedneſſe was ſport unto their eies.</l>
+                  <l>Yea, quite aſhamed of her ſelf for lack</l>
+                  <l>Of Grace and wit, ſhe ſighs and turneth back.</l>
+               </lg>
+               <lg n="9">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/> Her filthineſſe is in her skirts; her end</l>
+                  <l>Comes never to her mind, to make her mend:</l>
+                  <l>So by Gods wrath ſhe wonderfully fell;</l>
+                  <l>She had no comforter of peace to tell.</l>
+                  <l>On my affliction, Lord, caſt thou an eie,</l>
+                  <l>For, lo, my foe himſelf doth magnifie.</l>
+               </lg>
+               <lg n="10">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/> All that was pleaſant, or to her moſt dear,</l>
+                  <l>Lay vanquiſh'd by her foes triumphant ſpear.</l>
+                  <l>And ſhe hath ſeen, ô hight of all diſgrace!</l>
+                  <l>The heathen folk invade her Holy-place;</l>
+                  <l>On whom was laid of old this ſtrict command,</l>
+                  <l>Come never, never, on this Holy land.</l>
+               </lg>
+               <lg n="11">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="11"/> Her people ſigh, ſeek bread, and to releeve</l>
+                  <l>Themſelves with meat, their pleaſant things do give:</l>
+                  <l>See, Bleſſed God, conſider theſe my throes,</l>
+                  <l>How vile I am become unto my foes.</l>
+               </lg>
+               <lg n="12">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="12"/> O all ye Paſſengers behold and ſee,</l>
+                  <l>Is all this nothing that befalleth me?</l>
+                  <l>Was ever any ſorrow like to mine?</l>
+                  <l>See, was there ever ſuch a naked vine?</l>
+                  <l>Was the Almighty vengeance ever ſeen</l>
+                  <l>So hard on any, as on me't hath been?</l>
+                  <l>Or was there ever ſuch a day of wrath,</l>
+                  <l>So cruel, as to me this proved hath?</l>
+               </lg>
+               <lg n="13">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="13"/> Fire from above into my bones he ſent,</l>
+                  <l>Which did in his juſt anger them torment.</l>
+                  <l>For me he ſpread a net, he turn'd me back;</l>
+                  <l>I deſolate and faint all comforts lack.</l>
+               </lg>
+               <lg n="14">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="14"/> His hand hath yok'd my ſin and miſery,</l>
+                  <l>Which on my neck ly wreathed heavily.</l>
+                  <l>My ſtrength is gone; the Lord hath made me fall</l>
+                  <l>Into their hand; riſe up I never ſhall.</l>
+               </lg>
+               <lg n="15">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="15"/> The Lord <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'th midſt of me hath troden down.</l>
+                  <l>My mighty men, my chiefeſt joy and crown:</l>
+                  <l>
+                     <pb facs="tcp:110428:4"/>
+He an Aſſembly did againſt me call,</l>
+                  <l>Which ſhould my young men cruſh, my maids enthrall.</l>
+                  <l>The Virgin, Judahs daughter, was by God,</l>
+                  <l>As in a winepreſs, pitifully trod.</l>
+               </lg>
+               <lg n="16">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="16"/> For this I weep, mine eie, mine eie runs down,</l>
+                  <l>Whole floods of tears my ſoul and body drown,</l>
+                  <l>Becauſe the comforter that ſhould releeve</l>
+                  <l>My ſoul, doth unto me no comfort give.</l>
+                  <l>My children moſt diſconſolately cry</l>
+                  <l>Becauſe of the prevailing enemy.</l>
+               </lg>
+               <lg n="17">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="17"/> Zion ſpreads forth her hands, but there is none</l>
+                  <l>To comfort her: the Lords command is gone</l>
+                  <l>Concerning Jacob, that his cruel foes</l>
+                  <l>Should hedge him in, him round about incloſe.</l>
+                  <l>Nor wonder at it, ſince Jeruſalem</l>
+                  <l>Is as a menſtrous woman among them.</l>
+               </lg>
+               <lg n="18">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="18"/> The Lord is juſt, for I rebelled have</l>
+                  <l>Againſt the Holy Laws which he me gave.</l>
+                  <l>All people hear, I pray, my grief behold,</l>
+                  <l>My virgins, my yong men for ſlaves are ſold.</l>
+               </lg>
+               <lg n="19">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="19"/> I call'd my Lovers, but they me deceiv'd:</l>
+                  <l>I of my Prieſts and Elders was bereau'd,</l>
+                  <l>Who in the City did give up the Ghoſt;</l>
+                  <l>For want of meat, alas! their ſouls were loſt.</l>
+               </lg>
+               <lg n="20">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="20"/> Behold, ô Lord, for I am in diſtreſs;</l>
+                  <l>My troubled bowels yern<hi>:</hi> I do confeſs</l>
+                  <l>My rebel-ſins<hi>:</hi> my heart relents, ô God;</l>
+                  <l>Death me bereaves at home, the ſword abroad.</l>
+               </lg>
+               <lg n="21">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="21"/> My bitter ſighs and groans came to their ear,</l>
+                  <l>But yet to comfort me did none appear.</l>
+                  <l>When all my foes had heard my troubles ſtory,</l>
+                  <l>That thou hadſt done it; Lord, how did they glory!</l>
+                  <l>But when that Day, by thee prefixt, begins,</l>
+                  <l>Their woes ſhall be like mine, as were their ſins.</l>
+               </lg>
+               <lg n="22">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="22"/> As all their wickedneſs is known to thee,</l>
+                  <l>So do to them as thou haſt done to me</l>
+                  <l>For all my ſins. Dear God, hear my complaint;</l>
+                  <l>My ſighs are many, and my heart is faint.</l>
+               </lg>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <lg n="1">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> Zion, how hath the Lord thy daughters fame</l>
+                  <l>Invelop'd in a cloud of wrath and ſhame!</l>
+                  <l>
+                     <pb facs="tcp:110428:5"/>
+How from the Heaven to the Earth, to Hell,</l>
+                  <l>Caſt down the beuty of his Iſrael!</l>
+                  <l>Why did be in the day of his feirce heat</l>
+                  <l>The footſtool of his glory ſo forget!</l>
+               </lg>
+               <lg n="2">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> The Lord hath Jacobs habitations</l>
+                  <l>Quite ſwallow'd up without compaſſions.</l>
+                  <l>He with the ground, ô Judah, level'd hath</l>
+                  <l>Thy ſtrongeſt Holds in his inflamed wrath:</l>
+                  <l>Thy towers to the Earth he hath caſt down,</l>
+                  <l>Polluting both thy Princes and thy Crown.</l>
+               </lg>
+               <lg n="3">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> The glorious horn and ſtrength of Iſrael</l>
+                  <l>In His juſt indignation down fell:</l>
+                  <l>His right hand from before the enemie</l>
+                  <l>He hath drawn back; and againſt Jacob he</l>
+                  <l>Burn'd like a flaming fier, which no bound</l>
+                  <l>Obſerveth ever, but devoureth round.</l>
+               </lg>
+               <lg n="4">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> He like an enemie hath bent his bow,</l>
+                  <l>Stands arm'd on his right hand, as doth a foe.</l>
+                  <l>All that were pleaſant to the eie he ſlew;</l>
+                  <l>And what was moſt deſireable to view,</l>
+                  <l>Within thy daughters rich pavilion,</l>
+                  <l>His fury like a flame did ſeize upon.</l>
+               </lg>
+               <lg n="5">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> The Lord, as unto Iſrael a foe,</l>
+                  <l>Did all her Princely palaces orethrow:</l>
+                  <l>Her ſtrong holds he deſtroy'd, and brought upon</l>
+                  <l>Thy daughter, Judah, lamentation.</l>
+               </lg>
+               <lg n="6">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> His Tabernacle he by violence</l>
+                  <l>Took down, as if ſome gardens ſlighter fence:</l>
+                  <l>Her places of Aſſembly, Solemn Feaſts,</l>
+                  <l>And Sabbaths are forgot in Zion: Preiſts,</l>
+                  <l>And Kings, anointed with the ſacred horn,</l>
+                  <l>Are now become the ſubjects of his ſcorn.</l>
+               </lg>
+               <lg n="7">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> His Altar he caſt off, and did prophane</l>
+                  <l>The holy place, once called by his name.</l>
+                  <l>Her Palace and Gods houſe her foes poſſeſt,</l>
+                  <l>Who made a noiſe as on a ſolemn Feaſt.</l>
+               </lg>
+               <lg n="8">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/> The wall of Zion it is Gods deſign</l>
+                  <l>To ruin; he hath ſtretched out a line:</l>
+                  <l>See, how it works: The Rampart and the wall</l>
+                  <l>Do both lament, do both together fall.</l>
+               </lg>
+               <lg n="9">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/> Her gates are ſunk into the ground: her bar</l>
+                  <l>Is broken down: her King and Princes are</l>
+                  <l>
+                     <pb facs="tcp:110428:5"/>
+Among the Gentiles: ſee, the Law is gon,</l>
+                  <l>Her Prophets find from God no viſion.</l>
+               </lg>
+               <lg n="10">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/> Her elders ſilent on the earth do ſit,</l>
+                  <l>Aſhes upon their heads they caſt; and fit</l>
+                  <l>Sackcloth about their loins: her virgins ſigh,</l>
+                  <l>Hang down their heads, and wail their miſerie.</l>
+               </lg>
+               <lg n="11">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="11"/> Mine eys do fail with tears, my bowels melt;</l>
+                  <l>Such troubles never were by any felt:</l>
+                  <l>My liver's poured out: ſee, all conſpire</l>
+                  <l>My daughters ruin; Famine, Sword and Fire</l>
+                  <l>Combine againſt her; nay the ſucklings faint</l>
+                  <l>In her, among all Cities once the Saint.</l>
+               </lg>
+               <lg n="12">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="12"/> Whet's corn and wine? they to their mothers cry,</l>
+                  <l>When in the City ſtreets they famiſh'd ly,</l>
+                  <l>And ſwooning, ready to pour out their ſoul</l>
+                  <l>Into their mothers laps, who them condole.</l>
+               </lg>
+               <lg n="13">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="13"/> To what ſhall I thee liken or compare,</l>
+                  <l>O daughter of Jeruſalem? my care</l>
+                  <l>Is what to equal to thee, that I may</l>
+                  <l>Some comfort to diſtreſſed Zion ſay.</l>
+                  <l>Thy breach, great as the ſea, who can conceal?</l>
+                  <l>The greater miſchief is, none can thee heal.</l>
+               </lg>
+               <lg n="14">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="14"/> The Prophets fooliſh things for thee have ſeen,</l>
+                  <l>By them thy ſins have not diſcloſed been.</l>
+                  <l>Falſe burthens they to thee did repreſent</l>
+                  <l>Not the true cauſes of thy baniſhment.</l>
+               </lg>
+               <lg n="15">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="15"/> All paſſengers at thee their hands do clap,</l>
+                  <l>They hiſs and wagg their heads at thy miſhap.</l>
+                  <l>They ſay, Is this Earths joy, this Zion? this</l>
+                  <l>The paragon of beauty and of bliſs?</l>
+               </lg>
+               <lg n="16">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="16"/> Thine enemies their mouth have open'd wide,</l>
+                  <l>They hiſs and gnaſh their teeth, they thee deride.</l>
+                  <l>See, ſee, ſhe's ſwallow'd up: This is the day</l>
+                  <l>We looked for, have found, have ſeen. Away.</l>
+               </lg>
+               <lg n="17">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="17"/> The Lord hath done what he long ſince foretold;</l>
+                  <l>He hath fulfill'd the word he ſpake of old.</l>
+                  <l>He hath thrown down, he hath not pitied;</l>
+                  <l>Thy foes ſet up their horn, exalt their head.</l>
+               </lg>
+               <lg n="18">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="18"/> At laſt their heart unto the Lord did crie.</l>
+                  <l>O wall of Zion, full of miſerie,</l>
+                  <l>Let tears run down like rivers day and night,</l>
+                  <l>Nor reſt thou, nor the apple of thy ſight.</l>
+               </lg>
+               <lg n="19">
+                  <pb facs="tcp:110428:6"/>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="19"/> Virgin ariſe, and in the night cry out,</l>
+                  <l>Before the morning watches paſs about;</l>
+                  <l>Thy heart, like water, pour before the face</l>
+                  <l>Of thy dear Lord; and to his holy place</l>
+                  <l>Lift up thy hands; thy childrens life implore,</l>
+                  <l>Who in the ſtreets ly faint at every dore.</l>
+               </lg>
+               <lg n="20">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="20"/> Conſider, Lord, with whom this Cup began:</l>
+                  <l>Shal women eat their children of a ſpan?</l>
+                  <l>Shal Prieſt and Prophet, Bleſſed God, be ſlain</l>
+                  <l>Within that holy place where thou doſt reign?</l>
+               </lg>
+               <lg n="21">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="21"/> The yong and old upon the ground do ly,</l>
+                  <l>My virgins and yong men by ſword do dy.</l>
+                  <l>In that thy day of wrath thou didſt them ſlay,</l>
+                  <l>Thou hadſt no pity, Lord; wouldſt have no nay.</l>
+               </lg>
+               <lg n="22">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="22"/> As in a ſolemn day or Feſtival,</l>
+                  <l>My terrors round about me thou didſt call.</l>
+                  <l>When thou waſt angry, Lord, none did remain,</l>
+                  <l>None did eſcape to comfort me again.</l>
+                  <l>They that were ſwadled and brought up by me</l>
+                  <l>Were all conſumed by mine enemie.</l>
+               </lg>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <lg n="1">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> I am the man have ſeen affliction</l>
+                  <l>By his ſharp rod of indignation.</l>
+               </lg>
+               <lg n="2">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> He did me to thoſe ſhades of darkneſs bring,</l>
+                  <l>Whence will no beams of light for ever ſpring.</l>
+               </lg>
+               <lg n="3">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> Sure, againſt me, me only did he turn</l>
+                  <l>
+                     <hi>His</hi> hand, which me, as fire, did all day burn.</l>
+               </lg>
+               <lg n="4">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> My fleſh and skin, alas! are waxen old;</l>
+                  <l>My bones are broken; not one whole is told.</l>
+               </lg>
+               <lg n="5">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> A batt'ring fort he did againſt me rear;</l>
+                  <l>He compaſs'd me with travel, gall and fear.</l>
+               </lg>
+               <lg n="6">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> Dark places he hath caus'd me to poſſeſs,</l>
+                  <l>As they that dy'd of old, remedileſs.</l>
+               </lg>
+               <lg n="7">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> No getting forth, he hath ſo hedg'd me round;</l>
+                  <l>My chains ly heavy, preſs me to the ground.</l>
+               </lg>
+               <lg n="8">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/> Nay, when to him I cry, nay, when I ſhout,</l>
+                  <l>In anger he my prayer ſhutteth out.</l>
+               </lg>
+               <lg n="9">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/> With hewen ſtone he hath inclos'd my way;</l>
+                  <l>My paths are crooked, and I go aſtray.</l>
+               </lg>
+               <lg n="10">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/> Me, as a Lyon in the woods, to bait,</l>
+                  <l>For me he, as a Bear, doth lie in wait.</l>
+               </lg>
+               <lg n="11">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="11"/> He hath me turn'd aſide, to pieces torn,</l>
+                  <l>Hath made me deſolate and all forlorn.</l>
+               </lg>
+               <lg n="12">
+                  <pb facs="tcp:110428:6"/>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="12"/> His bow he bent, and, though with great regret,</l>
+                  <l>Me for the arrow as a mark he ſet.</l>
+               </lg>
+               <lg n="13">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="13"/> The arrows of his quiver he hath made</l>
+                  <l>My reins to enter, and my ſoul invade.</l>
+               </lg>
+               <lg n="14">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="14"/> My people had me in deriſion;</l>
+                  <l>Made me their ſong, me all day gap'd upon.</l>
+               </lg>
+               <lg n="15">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="15"/> He hath me fill'd with bitternes; I ſunk</l>
+                  <l>As if I were with gall and wormwood drunk.</l>
+               </lg>
+               <lg n="16">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="16"/> With gravel ſtones my teeth all broken are;</l>
+                  <l>Me hath he roll'd in aſhes, girt with hair.</l>
+               </lg>
+               <lg n="17">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="17"/> Thou haſt remov'd my ſoul far off from peace;</l>
+                  <l>Thou mad'ſt proſperity from me to ceaſe.</l>
+               </lg>
+               <lg n="18">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="18"/> Thee, thee, ô Lord, I once rely'd upon;</l>
+                  <l>My ſtrength is periſh'd now, my hope is gone.</l>
+               </lg>
+               <lg n="19">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="19"/> Good God remember my affliction,</l>
+                  <l>My wormwood, gall, and deſolation.</l>
+               </lg>
+               <lg n="20">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="20"/> Theſe when my ſoul doth call to memory,</l>
+                  <l>How low it bows, how humble then am I!</l>
+               </lg>
+               <lg n="21">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="21"/> Theſe are my thoughts, this I recall to mind,</l>
+                  <l>In this I hope, and, hoping, comfort find.</l>
+               </lg>
+               <lg n="22">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="22"/> That we art not conſumed, Lord, we ow</l>
+                  <l>To thee, whoſe bowels ſtil with mercies flow.</l>
+               </lg>
+               <lg n="23">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="23"/> Each morning they renew, and go their round,</l>
+                  <l>Thy faithfulneſs is great and knows no bound.</l>
+               </lg>
+               <lg n="24">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="24"/> The Lord's the lot, and portion of my ſoul;</l>
+                  <l>Therefore my hope in him ſhall none controul.</l>
+               </lg>
+               <lg n="25">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="25"/> The Lord is good to them that for him wait<hi>:</hi>
+                  </l>
+                  <l>That ſoul that ſeeks him ſhal his grace relate.</l>
+               </lg>
+               <lg n="26">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="26"/> Great comfort unto man it doth afford,</l>
+                  <l>To wait for the ſalvation of the Lord.</l>
+               </lg>
+               <lg n="27">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="27"/> It's good for man, and doth to God indear,</l>
+                  <l>If in his youth the yoke of God he bear.</l>
+               </lg>
+               <lg n="28">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="28"/> He ſits alone, in ſilence is content,</l>
+                  <l>Becauſe God layd it on, doth not relent.</l>
+               </lg>
+               <lg n="29">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="29"/> His mouth he putteth in the duſt; if ſo,</l>
+                  <l>If to him any hope from thence may grow.</l>
+               </lg>
+               <lg n="30">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="30"/> His cheek he giveth to the ſmiter, he</l>
+                  <l>Is filled full with ſcorn and obloquie.</l>
+               </lg>
+               <lg n="31">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="31"/> The Lord, though juſt yet, bears a fathers love,</l>
+                  <l>Nor w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll me, though a ſinner, ſtil reprove.</l>
+               </lg>
+               <lg n="32">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="32"/> Though he cauſe greif yet his compaſsions</l>
+                  <l>Are greater far then our tranſgreſsions.</l>
+               </lg>
+               <lg n="33">
+                  <pb facs="tcp:110428:7"/>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="33"/> He doth not from his heart, not willingly,</l>
+                  <l>Afflict or us, or our poſterity.</l>
+               </lg>
+               <lg n="34">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="34"/> The pris'ners of the earth under his feet</l>
+                  <l>To cruſh, as filth or garbage of the ſtreet;</l>
+               </lg>
+               <lg n="35">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="35"/> To turn aſide the right of any man,</l>
+                  <l>Before his face who ſhould the right mantein;</l>
+               </lg>
+               <lg n="36">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="36"/> And to ſubvert a cauſe, for fear or love,</l>
+                  <l>The Lord, the righteous Judg doth not approve.</l>
+               </lg>
+               <lg n="37">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="37"/> Who is't that ſaith and it doth come to paſs,</l>
+                  <l>That never by the Lord commanded was?</l>
+               </lg>
+               <lg n="38">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="38"/> Believe it, from the mouth of the moſt high</l>
+                  <l>Proceed not good and evil, truth and ly.</l>
+               </lg>
+               <lg n="39">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="39"/> O why, why doth a living man complain!</l>
+                  <l>It is but juſt that ſin ſhould have its pain.</l>
+               </lg>
+               <lg n="40">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="40"/> O let us ſearch our ways, them let us trie,</l>
+                  <l>And turn to God in deep humilitie.</l>
+               </lg>
+               <lg n="41">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="41"/> O let us with our hands lift up our heart</l>
+                  <l>To God in heaven, who will grace impart.</l>
+               </lg>
+               <lg n="42">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="42"/> We have tranſgreſſed, we rebelled have;</l>
+                  <l>No pardon from thy juſtice can we crave.</l>
+               </lg>
+               <lg n="43">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="43"/> Vs in thine anger thou didſt perſecute,</l>
+                  <l>Thou didſt not pity, Thou didſt execute.</l>
+               </lg>
+               <lg n="44">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="44"/> Lord, thou thy face didſt cover with a cloud,</l>
+                  <l>Thou wouldſt not hear our crys, though ne'r ſo loud.</l>
+               </lg>
+               <lg n="45">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="45"/> As the offscouring we are made ô God,</l>
+                  <l>And refuſe of the people all abroad.</l>
+               </lg>
+               <lg n="46">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="46"/> How all our enemies triumph and vaunt!</l>
+                  <l>How open they their mouths, how they us taunt!</l>
+               </lg>
+               <lg n="47">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="47"/> Fer and a ſnare our ſouls is come upon,</l>
+                  <l>Sure deſolation and deſtruction.</l>
+               </lg>
+               <lg n="48">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="48"/> Mine ey, mine ey with floods of tears runs o're,</l>
+                  <l>My daughters ſad eſtate I much deplore.</l>
+               </lg>
+               <lg n="49">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="49"/> Mine ey doth trickle down, and doth not ceaſe,</l>
+                  <l>Will have no intermiſsion, no releaſe.</l>
+               </lg>
+               <lg n="50">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="50"/> Until the Lord ſhal look from heavens throne,</l>
+                  <l>And thence behold my grief, and hear my groan.</l>
+               </lg>
+               <lg n="51">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="51"/> Mine ey affects my heart, my heart mine ey,</l>
+                  <l>So diſmal is my daughters miſery.</l>
+               </lg>
+               <lg n="52">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="52"/> Me as a bird mine enemies did chaſe,</l>
+                  <l>Me ſorely without cauſe they did diſgrace.</l>
+               </lg>
+               <lg n="53">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="53"/> Me in the pit they did of life deprive,</l>
+                  <l>And caſting ſtones my ruin did contrive.</l>
+               </lg>
+               <lg n="54">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="54"/> Over mine head did ſtreams of waters run,</l>
+                  <l>I ſaid<g ref="char:punc">▪</g> I am cut off, I am undon.</l>
+               </lg>
+               <lg n="55">
+                  <pb facs="tcp:110428:7"/>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="55"/> O Lord my God upon thy name I call'd</l>
+                  <l>Out of the dungeon, where I was enthrall'd.</l>
+               </lg>
+               <lg n="56">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="56"/> Thou heardſt my voice; ô do not ſhut thine ears</l>
+                  <l>Or at my ſighings, Lord, or at my tears.</l>
+               </lg>
+               <lg n="57">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="57"/> When I on thee did call, thou dreweſt neer;</l>
+                  <l>In mercy thou ſaidſt to me, do not fear.</l>
+               </lg>
+               <lg n="58">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="58"/> The cauſes of my ſoul thou, Lord, didſt plead;</l>
+                  <l>Thou didſt my life redeem in her great need.</l>
+               </lg>
+               <lg n="59">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="59"/> Lord, thou haſt ſeen the wrongs they did to me;</l>
+                  <l>Iudg thou my cauſe, ô thou my Patron be.</l>
+               </lg>
+               <lg n="60">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="60"/> Their vengeance and their fury, thou haſt ſeen:</l>
+                  <l>Their thoughts againſt me all have cruel been.</l>
+               </lg>
+               <lg n="61">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="61"/> Their ſcorns and their reproaches thou didſt hear;</l>
+                  <l>All their deſigns againſt me curſed were.</l>
+               </lg>
+               <lg n="62">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="62"/> The talk of thoſe that did againſt me riſe</l>
+                  <l>Thou heardſt, and what all day they did deviſe.</l>
+               </lg>
+               <lg n="63">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="63"/> Behold, when they riſe up, or down do ly,</l>
+                  <l>I am their muſick and their melody.</l>
+               </lg>
+               <lg n="64">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="64"/> Requite them, Lord, that's all that I demand,</l>
+                  <l>According to the work of their own hand.</l>
+               </lg>
+               <lg n="65">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="65"/> Ah! let their heart with ſorrow be oppreſt;</l>
+                  <l>Give them thy curſe, let them be never bleſt.</l>
+               </lg>
+               <lg n="66">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="66"/> In anger perſecute, and to be eav'n,</l>
+                  <l>Deſtroy them, ô my God, from under heav'n.</l>
+               </lg>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP.</hi> IIII.</head>
+               <lg n="1">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> How is the gold becom ſo dim? alas!</l>
+                  <l>How is the gold now chang'd, moſt fine that was?</l>
+                  <l>How do the ſtones, Lord, of thy holy place</l>
+                  <l>Ly ſcatter'd in the ſtreets before thy face?</l>
+               </lg>
+               <lg n="2">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> How are thy pretious ſons, my Love, my Care,</l>
+                  <l>Which with the fineſt gold might once compare,</l>
+                  <l>How are they now caſt by as earthen pots,</l>
+                  <l>By the laborious hand digg'd out of grots?</l>
+               </lg>
+               <lg n="3">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> The monſters of the ſea draw out their breſt,</l>
+                  <l>From ſuckling of their yong they never reſt;</l>
+                  <l>The daughter of my people cruel is,</l>
+                  <l>As is the Oſtrich in the wilderneſs.</l>
+               </lg>
+               <lg n="4">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> The ſucking infants toung for thirſt doth cleave</l>
+                  <l>Unto his palat<hi>:</hi> but can faith beleeve,</l>
+                  <l>That the yong children, who nought els can ſpeak,</l>
+                  <l>Should ask for bread, and none to them ſhould break?</l>
+               </lg>
+               <lg n="5">
+                  <pb facs="tcp:110428:8"/>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> They that did feed moſt high and delicate</l>
+                  <l>Do pine, and in the ſtreets lie deſolate.</l>
+                  <l>They that deſcended of moſt noble race,</l>
+                  <l>In ſtead of ſcarlet, dunghils do embrace.</l>
+               </lg>
+               <lg n="6">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> The daughter of my people did ſurpaſs</l>
+                  <l>Proud Sodoms ſin and puniſhment: alas!</l>
+                  <l>As in a moment ſhe was overthrown,</l>
+                  <l>No hand upheld, none ſtayd her falling down.</l>
+               </lg>
+               <lg n="7">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> Her Nazarites were purer then the ſnow,</l>
+                  <l>No milk ſo white but they did it outgo:</l>
+                  <l>They were more ruddy then the Rubies are,</l>
+                  <l>Their poliſhing excell'd the Saphyrs far.</l>
+               </lg>
+               <lg n="8">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/> Their viſage blacker then a coal appears,</l>
+                  <l>Them mourning in the ſtreet none knows or hears:</l>
+                  <l>Their skin cleaves to their bones, is withered,</l>
+                  <l>And, like a ſtick without all moiſture, dead.</l>
+               </lg>
+               <lg n="9">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/> They, whom the ſword hath ſlain, far better be,</l>
+                  <l>Then they that ſlain with thirſt and hunger die<hi>:</hi>
+                  </l>
+                  <l>For theſe do pine away, are ſtricken through,</l>
+                  <l>For want of fruits which in the field do grow.</l>
+               </lg>
+               <lg n="10">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/> The women, that all tender pities breath,</l>
+                  <l>They, they, their own, their deareſt Infants ſeeth</l>
+                  <l>To ſatiſfie their hunger: Theſe, their meats,</l>
+                  <l>O Zion, when deſtruction ſwept thy ſtreets.</l>
+               </lg>
+               <lg n="11">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="11"/> The Lord his fury now accompliſh'd hath,</l>
+                  <l>And juſtly poured out his feirceſt wrath:</l>
+                  <l>A fire burns up thy habitations,</l>
+                  <l>And hath devoured the foundations.</l>
+               </lg>
+               <lg n="12">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="12"/> Nor Princes that in Majeſty excell,</l>
+                  <l>Nor People that on Earth's vaſt bounds do dwell,</l>
+                  <l>Would have beleev'd, our foes, thoſe cruel men,</l>
+                  <l>Should make ſuch havock in Jeruſalem.</l>
+               </lg>
+               <lg n="13">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="13"/> Her Prophets fins, her Prieſts iniquities,</l>
+                  <l>The fatal cauſes of her miſeries;</l>
+                  <l>That made a chanel through the City run,</l>
+                  <l>Stain'd with the blood of ſaints by them undon.</l>
+               </lg>
+               <lg n="14">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="14"/> As blindmen wander up and down the ſtreet,</l>
+                  <l>So in by ways trod their miſguided feet,</l>
+                  <l>With blood ſo much polluted, that who ere</l>
+                  <l>Their garments touch'd, with blood polluted were.</l>
+               </lg>
+               <lg n="15">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="15"/> Depart, it is unclean; depart, they cry,</l>
+                  <l>Depart, touch not, when wandering they fly<hi>:</hi>
+                  </l>
+                  <l>Among the Heathen this was all the talk,</l>
+                  <l>They ſhall no more or ſojourn there, or walk.</l>
+               </lg>
+               <lg n="16">
+                  <pb facs="tcp:110428:8"/>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="16"/> The anger of the Lord did them divide,</l>
+                  <l>He will no more regard, no more them guide:</l>
+                  <l>The perſons of the Prieſts have no reſpect,</l>
+                  <l>The Elders without favour they reject.</l>
+               </lg>
+               <lg n="17">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="17"/> For us, vain was our hope, our eys did fail,</l>
+                  <l>Expecting help from man who is but frail.</l>
+                  <l>We look'd, we waited for a Nation,</l>
+                  <l>Which could not help, nor bring ſalvation.</l>
+               </lg>
+               <lg n="18">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="18"/> They hunt our ſteps, they dogg us in the way,</l>
+                  <l>That going in the ſtreets we go aſtray;</l>
+                  <l>Our end is neer, our days fulfilled are;</l>
+                  <l>Our end is come; of help we quite deſpair.</l>
+               </lg>
+               <lg n="19">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="19"/> The eagles of the heavens for their prey</l>
+                  <l>Are not ſo ſwift and eager, as are they</l>
+                  <l>Our perſecuting foes, who on the hills</l>
+                  <l>Perſue, and lie in wait to do all ills.</l>
+               </lg>
+               <lg n="20">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="20"/> Our breath, and thy Anointed, ô our God,</l>
+                  <l>Is taken in the nets they ſpread abroad:</l>
+                  <l>Of whom we ſaid, Vnder his ſhadow we</l>
+                  <l>Among the heathen ſhal preſerved be.</l>
+               </lg>
+               <lg n="21">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="21"/> Rejoyce, ô Edoms daughter, in thy ſpoils;</l>
+                  <l>Rejoyce, ô land of <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>z, in our turmoils:</l>
+                  <l>The Cup of fury ſhal come round to thee,</l>
+                  <l>And thou ſhalt drunken, thou ſhalt naked be.</l>
+               </lg>
+               <lg n="22">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="22"/> Thus was thy ſin, ô Zion, puniſhed;</l>
+                  <l>Thou ſhalt no more by him be captive led<hi>:</hi>
+                  </l>
+                  <l>But as for thee, proud Edom, God ſhall viſit</l>
+                  <l>Thy ſins upon thee, after thy demerit.</l>
+               </lg>
+            </div>
+            <div n="5" type="chapter">
+               <head>Chapter the Fift.</head>
+               <lg n="1">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> Remember, ô our God, what we have born;</l>
+                  <l>Conſider our reproach, behold our ſcorn.</l>
+               </lg>
+               <lg n="2">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> How ſtrangers do our heritage poſſeſs;</l>
+                  <l>Our houſes aliens; we have no redreſs.</l>
+               </lg>
+               <lg n="3">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> We Orphans are, alas! and fatherleſs;</l>
+                  <l>Our Mothers are as Widows in diſtreſs.</l>
+               </lg>
+               <lg n="4">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> For water, all our drink, we pay and crave,</l>
+                  <l>Out wood is ſold to us, as to a ſlave.</l>
+               </lg>
+               <lg n="5">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="5"/> Our necks are under perſecution;</l>
+                  <l>We labour hard, no mitigation.</l>
+               </lg>
+               <lg n="6">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="6"/> With Egypt and Aſſyria we combin'd,</l>
+                  <l>That they, to ſatiſfie us, bread might find.</l>
+               </lg>
+               <lg n="7">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="7"/> Our Fathers dy'd for their iniquities;</l>
+                  <l>We bear their ſins, we bear their miſeries</l>
+               </lg>
+               <lg n="8">
+                  <pb facs="tcp:110428:9"/>
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="8"/> Servants, as Lords, have <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> at their command;</l>
+                  <l>And none do us deliver <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> their hand.</l>
+               </lg>
+               <lg n="9">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="9"/> We gate our bread <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> peril of our life;</l>
+                  <l>With wilderneſs and ſword we were at ſtrife.</l>
+               </lg>
+               <lg n="10">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="10"/> Our skin was like an Oven ſcorch'd and black;</l>
+                  <l>The cruel ſtorms of famine brake our back.</l>
+               </lg>
+               <lg n="11">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="11"/> Thy maids and women raviſh'd in the ſtreet,</l>
+                  <l>O Zion, wail'd themſelvs at their foes feet.</l>
+               </lg>
+               <lg n="12">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="12"/> The Princes and the Peers they execute;</l>
+                  <l>Nor have the Elders honor or repute.</l>
+               </lg>
+               <lg n="13">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="13"/> Our luſty youth they took and forc'd to grind;</l>
+                  <l>Our children cleft their wood againſt their mind.</l>
+               </lg>
+               <lg n="14">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="14"/> The Elders ceaſed from the Judgment ſeat;</l>
+                  <l>Our yong men from their muſick did retreat.</l>
+               </lg>
+               <lg n="15">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="15"/> Our joy hath now a long vacation,</l>
+                  <l>Our dance is turn'd to lamentation.</l>
+               </lg>
+               <lg n="16">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="16"/> Our crown, our glory from our head is gon;</l>
+                  <l>Wo, wo to us, our ſins have us undon.</l>
+               </lg>
+               <lg n="17">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="17"/> For this, for this, alas! our heart is faint;</l>
+                  <l>For this our ey is dim, we make complaint.</l>
+               </lg>
+               <lg n="18">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="18"/> Becauſe thy mountain, Zio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, is forlorn;</l>
+                  <l>And foxes walk upon it, to our ſcorn.</l>
+               </lg>
+               <lg n="19">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="19"/> But thou, ô Lord, for ever doſt endure,</l>
+                  <l>Thy throne from age to age is ſtabliſh'd ſure.</l>
+               </lg>
+               <lg n="20">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="20"/> Wherfore doſt thou for ever us forget?</l>
+                  <l>So long forſake us? ô remember yet;</l>
+               </lg>
+               <lg n="21">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="21"/> Yet turn us, Lord, and we ſhal turn to thee;</l>
+                  <l>Our days let, as of old, renewed be.</l>
+               </lg>
+               <lg n="22">
+                  <l>
+                     <milestone type="tcpmilestone" unit="unspecified" n="22"/> Wilt thou quite caſt us off, for all thy oath?</l>
+                  <l>Wo and alas! our God is very wroth.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <epigraph>
+               <q>
+                  <bibl>2 Chron. 36.</bibl>
+                  <p>15 The Lord God of their Fathers ſent to them by his Meſſengers, riſing up betimes and ſending: becauſe he had compaſſion on His people, and on his dwelling place.</p>
+                  <p>16 But they mocked the Meſſengers of God, and despiſed his words, and miſuſed his Prophets, until the wrath of the Lord aroſe againſt his people, til there was no re<g ref="char:EOLhyphen"/>medie.</p>
+               </q>
+            </epigraph>
+            <pb facs="tcp:110428:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
